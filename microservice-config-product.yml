@@ -35,4 +35,4 @@ eureka:
         preferIpAddress: true
         
 emp:
-    name: lisi
+    name: wangwu
