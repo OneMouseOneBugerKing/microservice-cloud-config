@@ -35,4 +35,4 @@ eureka:
         preferIpAddress: true
         
 emp:
-    name: zhangsan
+    name: lisi
